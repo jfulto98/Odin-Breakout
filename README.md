@@ -9,3 +9,5 @@ This is not an exact copy of the tutorial (ex. it uses SDL2 instead of GLFW), bu
 
 I had no experience with Odin before this, so there are some organization/memory management things that could be improved upon. If I continue with Odin I might come back and improve on this project. I'm putting this on GitHub mainly for reference for myself. 
 I wouldn't recommend using this as a template, but it might be helpful to see how certain things can be done.
+
+There are commented links in relevant parts of the code, but I also relied on https://lazyfoo.net/tutorials/SDL/index.php for the SDL2 stuff.
