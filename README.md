@@ -1,4 +1,4 @@
-IMPORTANT: This project uses the odin freetype bindings found here: https://github.com/englerj/odin-freetype?tab=readme-ov-file
+IMPORTANT: This project uses the odin freetype bindings found here: https://github.com/englerj/odin-freetype?tab=readme-ov-file.
 There are installation instructions on their page, but you basically just git clone their repo into ODIN/shared, where ODIN is the 
 directory where you have ODIN installed, and then to import the package use:
 import "shared:freetype" 
