@@ -8,3 +8,4 @@ The breakout game from https://learnopengl.com/Code-repository, written in Odin 
 This is not an exact copy of the tutorial (ex. it uses SDL2 instead of GLFW), but everything is functionally about the same. I did this over the course of a week to try out programming using Odin. 
 
 I had no experience with Odin before this, so there are some organization/memory management things that could be improved upon. If I continue with Odin I might come back and improve on this project. I'm putting this on GitHub mainly for reference for myself. 
+I wouldn't recommend using this as a template, but it might be helpful to see how certain things can be done.
