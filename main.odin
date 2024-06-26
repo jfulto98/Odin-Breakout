@@ -50,8 +50,6 @@ main :: proc() {
 	}
 
 
-    //not up here or there will be crashes/bugs
-
     //SDL setup
 
 	// if SDL.Init( SDL.INIT_VIDEO ) < 0 {
