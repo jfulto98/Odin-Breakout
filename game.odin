@@ -145,7 +145,6 @@ initGame :: proc(){
     gl.BindVertexArray(spriteVAO)
     //!!MAKE SURE THE VAO IS BOUND BEFORE DOING ALL THE BUFFER DATA STUFF
     //otherwise nothing will render.
-    //see the comment in the sdl2 odin demo for details.
 
 	gl.BufferData(gl.ARRAY_BUFFER, len(vertices)*size_of(vertices[0]), raw_data(vertices), gl.STATIC_DRAW)
 	
